@@ -1,0 +1,13 @@
+{
+    "name": "lkraav/browser-sync-integration-wordpress",
+    "description": "Loads browser-sync JS snippet.",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leho Kraav",
+            "email": "leho@kraav.com"
+        }
+    ],
+    "require": {}
+}
